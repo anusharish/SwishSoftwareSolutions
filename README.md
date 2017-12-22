@@ -1,2 +1,0 @@
-# SwishSoftwareSolutions
-Primary Swish Website
