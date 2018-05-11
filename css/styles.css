@@ -1497,3 +1497,28 @@ padding: 7px 0 0;
     padding: 7px 0 0;
     }
 }
+
+
+
+
+/* Responsive Code */
+@media(min-width: 320px) and (max-width: 480px)
+{
+   .navbar-brand>img{ display: block;
+    margin: 15px 2px;
+    width: 120px;
+    }
+}
+
+}
+
+
+
+@media(min-width: 481px) and (max-width: 991px)
+{
+   .navbar-brand>img {
+      display: block;
+      margin: 0px 15px;
+      width: 120px;
+  }
+}
