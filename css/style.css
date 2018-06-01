@@ -2119,3 +2119,32 @@ span.other-num {
 }
 
 }
+
+
+
+
+
+
+@media(min-width: 481px) and (max-width: 990px)
+{
+	.home_padding{
+		padding-top: 52px;
+	}
+   .navbar-brand>img {
+      display: block;
+      margin: 0px 15px;
+      width: 120px;
+    
+  }
+}
+
+
+
+
+
+@media(min-width: 991px) and (max-width: 1024px)
+{
+	.home_padding{
+		padding-top: 55px;
+	}
+}
